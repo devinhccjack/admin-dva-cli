@@ -1,17 +1,17 @@
 {
-  "name": "dva-admin",
-  "version": "1.1.1",
+  "name": "admin-iview-cli-hcc",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "bin": {
-    "dva-admin": "index.js"
+    "admin-iview-cli": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "满振华",
+  "author": "hcc",
   "license": "ISC",
-  "repository": "https://github.com/xkl2013/dva-admin.git",
+  "repository": "https://github.com/hechongchong/admin-dva-cli.git",
   "dependencies": {
     "chalk": "^2.4.1",
     "commander": "^2.19.0",
